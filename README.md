@@ -1,4 +1,4 @@
-### Olá, sou Kyoto-01 👋
+### Hi, I'm Kyoto-01 👋
 
 <!--
 **Kyoto-01/Kyoto-01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
